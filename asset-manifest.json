@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/facuvillar27/WebAppMint/static/css/main.5956aa9d.css",
+    "main.js": "/facuvillar27/WebAppMint/static/js/main.bcb63fe8.js",
+    "static/media/parallax-bg.gif": "/facuvillar27/WebAppMint/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/facuvillar27/WebAppMint/index.html",
+    "main.5956aa9d.css.map": "/facuvillar27/WebAppMint/static/css/main.5956aa9d.css.map",
+    "main.bcb63fe8.js.map": "/facuvillar27/WebAppMint/static/js/main.bcb63fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5956aa9d.css",
+    "static/js/main.bcb63fe8.js"
+  ]
+}
