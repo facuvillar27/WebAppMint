@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WebAppMint/static/css/main.be9ffe21.css",
-    "main.js": "/WebAppMint/static/js/main.fb9235d8.js",
+    "main.js": "/WebAppMint/static/js/main.d7ff17c9.js",
     "static/media/parallax-bg.gif": "/WebAppMint/static/media/parallax-bg.a753668321d10848110d.gif",
     "index.html": "/WebAppMint/index.html",
     "main.be9ffe21.css.map": "/WebAppMint/static/css/main.be9ffe21.css.map",
-    "main.fb9235d8.js.map": "/WebAppMint/static/js/main.fb9235d8.js.map"
+    "main.d7ff17c9.js.map": "/WebAppMint/static/js/main.d7ff17c9.js.map"
   },
   "entrypoints": [
     "static/css/main.be9ffe21.css",
-    "static/js/main.fb9235d8.js"
+    "static/js/main.d7ff17c9.js"
   ]
 }
