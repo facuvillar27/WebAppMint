@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/WebAppMint/static/css/main.be9ffe21.css",
-    "main.js": "/WebAppMint/static/js/main.d7ff17c9.js",
+    "main.css": "/WebAppMint/static/css/main.660a5d23.css",
+    "main.js": "/WebAppMint/static/js/main.18fcf4e2.js",
     "static/media/parallax-bg.gif": "/WebAppMint/static/media/parallax-bg.a753668321d10848110d.gif",
+    "static/media/blas-gif.gif": "/WebAppMint/static/media/blas-gif.49e591e6c58f8a1518f2.gif",
+    "static/media/header.png": "/WebAppMint/static/media/header.354f5c136a53c1fe851f.png",
+    "static/media/2blast.png": "/WebAppMint/static/media/2blast.635a7bfaaa11d0f0d1f6.png",
+    "static/media/cmo.png": "/WebAppMint/static/media/cmo.ec5315096c4058fdb271.png",
+    "static/media/CEO.png": "/WebAppMint/static/media/CEO.5f652bd61ab079865b45.png",
+    "static/media/cto.png": "/WebAppMint/static/media/cto.b4be79de754912c16022.png",
+    "static/media/market.png": "/WebAppMint/static/media/market.c1a7c1344fa8862cac5b.png",
     "index.html": "/WebAppMint/index.html",
-    "main.be9ffe21.css.map": "/WebAppMint/static/css/main.be9ffe21.css.map",
-    "main.d7ff17c9.js.map": "/WebAppMint/static/js/main.d7ff17c9.js.map"
+    "main.660a5d23.css.map": "/WebAppMint/static/css/main.660a5d23.css.map",
+    "main.18fcf4e2.js.map": "/WebAppMint/static/js/main.18fcf4e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.be9ffe21.css",
-    "static/js/main.d7ff17c9.js"
+    "static/css/main.660a5d23.css",
+    "static/js/main.18fcf4e2.js"
   ]
 }
